@@ -52,7 +52,7 @@ Online:
 
 ## Recording
 
-You can watch the recording of the 2022 workshop at link below:
+You can watch the recording of the 2022 workshop at the link below:
 
 [![Click here to watch recording](https://img.youtube.com/vi/YmcA4ODpiqA/0.jpg)](https://www.youtube.com/watch?v=YmcA4ODpiqA)
 
